@@ -1,2 +1,2 @@
 # liujt-WenyuanPavilion
-Time was changed.
+Times was changed.
